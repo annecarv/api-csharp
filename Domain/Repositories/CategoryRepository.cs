@@ -21,5 +21,25 @@ namespace Dws.Note_one.Api.Domain.Repositories
         {
             await _context.Categories.AddAsync(category);
         }
+
+        public Task AddAsync(Category category)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<Category> FindByIdAsync(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Update(Category category)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Remove(Category category)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

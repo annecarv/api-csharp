@@ -4,7 +4,7 @@ using Dws.Note_one.Api.Persistence.Repositories.IRepositories;
 using Dws.Note_one.Api.Domain.Services;
 using Dws.Note_one.Api.Domain.Services.IServices;
 using Microsoft.EntityFrameworkCore;
-
+using Dws.Note_one.Api.Persistence.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,9 +14,10 @@ builder.Services.AddControllers();
 builder.Services.AddDbContext<AppDbContext>(options => {
     options.UseInMemoryDatabase("groceries-api-in-memory");
 });
-builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
-builder.Services.AddScoped<ICategoryService, ICategoryService>();
+
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddScoped<ICategoryRepository, ICategoryRepository>();
+builder.Services.AddScoped<ICategoryService, ICategoryService>();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
