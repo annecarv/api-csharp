@@ -2,7 +2,7 @@ using AutoMapper;
 using Dws.Note_one.Api.Resource;
 using Dws.Note_one.Api.Domain.Models;
 
-namespace Dws.Note_one.Api.Extension
+namespace Dws.Note_one.Api.Mapping
 {
     public class ResourceToModelProfile : Profile
     {

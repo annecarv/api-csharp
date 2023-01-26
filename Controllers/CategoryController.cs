@@ -6,7 +6,6 @@ using Dws.Note_one.Api.Domain.Services.IServices;
 using Dws.Note_one.Api.Mapping;
 using Dws.Note_one.Api.Extension;
 
-
 namespace Dws.Note_one.Api.Controllers
 {
     [Route("/api/[controller]")]
@@ -27,6 +26,7 @@ namespace Dws.Note_one.Api.Controllers
         {
             var categories = await _categoryService.ListAsync();
             var resources = _mapper.Map<IEnumerable<Category>, IEnumerable<CategoryResource>>(categories);
+            //return resources;
             return categories;
         }
 

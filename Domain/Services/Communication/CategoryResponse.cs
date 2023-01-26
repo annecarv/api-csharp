@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using Dws.Note_one.Api.Services;
+using Dws.Note_one.Api.Domain.Services;
 using Dws.Note_one.Api.Domain.Repositories.IRepositories;
 using Dws.Note_one.Api.Domain.Models;
 using Dws.Note_one.Api.Domain.Services.Communication;

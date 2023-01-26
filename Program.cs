@@ -1,13 +1,12 @@
 using Dws.Note_one.Api.Persistence.Context;
 using Dws.Note_one.Api.Domain.Repositories;
 using Dws.Note_one.Api.Domain.Repositories.IRepositories;
-using Dws.Note_one.Api.Domain.Services;
 using Dws.Note_one.Api.Domain.Services.IServices;
+using Dws.Note_one.Api.Domain.Services;
 using Microsoft.EntityFrameworkCore;
 using Dws.Note_one.Api.Persistence.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
-
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -17,12 +16,11 @@ builder.Services.AddDbContext<AppDbContext>(options => {
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
-builder.Services.AddScoped<ICategoryService, ICategoryService>();
-
-builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+builder.Services.AddScoped<ICategoryService, CategoryService>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 var app = builder.Build();
 
@@ -45,3 +43,4 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
