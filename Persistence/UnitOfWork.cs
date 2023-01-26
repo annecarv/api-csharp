@@ -1,4 +1,4 @@
-using Dws.Note_one.Api.Persistence.Repositories.IRepositories;
+using Dws.Note_one.Api.Domain.Repositories.IRepositories;
 using Dws.Note_one.Api.Persistence.Context;
 
 namespace Dws.Note_one.Api.Persistence.Repositories

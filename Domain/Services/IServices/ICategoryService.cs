@@ -8,6 +8,6 @@ namespace Dws.Note_one.Api.Domain.Services.IServices
     public interface ICategoryService
     {
         Task<IEnumerable<Category>> ListAsync();
-        Task<SaveCategoryResponse> SaveAsync(Category category);
+        Task<CategoryResponse> SaveAsync(Category category);
     }
 }

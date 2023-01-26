@@ -1,6 +1,6 @@
 using Dws.Note_one.Api.Persistence.Context;
 using Dws.Note_one.Api.Domain.Repositories;
-using Dws.Note_one.Api.Persistence.Repositories.IRepositories;
+using Dws.Note_one.Api.Domain.Repositories.IRepositories;
 using Dws.Note_one.Api.Domain.Services;
 using Dws.Note_one.Api.Domain.Services.IServices;
 using Microsoft.EntityFrameworkCore;
@@ -16,7 +16,7 @@ builder.Services.AddDbContext<AppDbContext>(options => {
 });
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-builder.Services.AddScoped<ICategoryRepository, ICategoryRepository>();
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 builder.Services.AddScoped<ICategoryService, ICategoryService>();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
