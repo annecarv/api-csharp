@@ -9,7 +9,10 @@ namespace Dws.Note_one.Api.Mapping
         public ResourceToModelProfile()
         {
             CreateMap<SaveCategoryResource, Category>();
+            CreateMap<SaveStoreResource, Store>();
+            CreateMap<DeleteStoreResource, Store>();
+
+
         }
     }
-
 }

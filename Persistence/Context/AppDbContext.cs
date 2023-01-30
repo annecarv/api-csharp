@@ -7,6 +7,8 @@ namespace Dws.Note_one.Api.Persistence.Context
     {
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
+        public DbSet<Store> Stores { get; set; }
+
 
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
@@ -32,6 +34,18 @@ namespace Dws.Note_one.Api.Persistence.Context
             builder.Entity<Product>().Property(p => p.Name).IsRequired().HasMaxLength(50);
             builder.Entity<Product>().Property(p => p.QuantityInPackage).IsRequired();
             builder.Entity<Product>().Property(p => p.UnitOfMeasurement).IsRequired();
+
+            builder.Entity<Store>().ToTable("Stores");
+            builder.Entity<Store>().HasKey(p => p.Id);
+            builder.Entity<Store>().Property(p => p.Id).IsRequired().ValueGeneratedOnAdd();
+            builder.Entity<Store>().Property(p => p.Name).IsRequired().HasMaxLength(30);
+            builder.Entity<Store>().Property(p => p.TaxId).IsRequired().HasMaxLength(30);
+
+            builder.Entity<Store>().HasData
+            (
+                new Store { Id = 100, Name = "FL01", TaxId = "122344"}, // Id set manually due to in-memory provider
+                new Store { Id = 101, Name = "FL02", TaxId = "12272727" }
+            );
         }
     }
 

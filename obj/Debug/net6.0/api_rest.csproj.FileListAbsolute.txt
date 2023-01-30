@@ -1,79 +1,121 @@
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\bin\Debug\net6.0\appsettings.json
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\bin\Debug\net6.0\api_rest.exe
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\bin\Debug\net6.0\api_rest.deps.json
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\bin\Debug\net6.0\api_rest.runtimeconfig.json
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\bin\Debug\net6.0\api_rest.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\bin\Debug\net6.0\api_rest.pdb
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\obj\Debug\net6.0\api_rest.csproj.AssemblyReference.cache
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\obj\Debug\net6.0\api_rest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\obj\Debug\net6.0\api_rest.AssemblyInfoInputs.cache
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\obj\Debug\net6.0\api_rest.AssemblyInfo.cs
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\obj\Debug\net6.0\api_rest.csproj.CoreCompileInputs.cache
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\obj\Debug\net6.0\api_rest.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\obj\Debug\net6.0\api_rest.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\obj\Debug\net6.0\scopedcss\bundle\api_rest.styles.css
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\obj\Debug\net6.0\api_rest.csproj.CopyComplete
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\obj\Debug\net6.0\api_rest.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\obj\Debug\net6.0\refint\api_rest.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\obj\Debug\net6.0\api_rest.pdb
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\obj\Debug\net6.0\api_rest.genruntimeconfig.cache
-C:\Users\anne_\OneDrive\Área de Trabalho\.NET\project\api_rest\obj\Debug\net6.0\ref\api_rest.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\project\api_rest\obj\Debug\net6.0\api_rest.csproj.AssemblyReference.cache
-C:\Users\anne_\OneDrive\Área de Trabalho\project\api_rest\obj\Debug\net6.0\api_rest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\anne_\OneDrive\Área de Trabalho\project\api_rest\obj\Debug\net6.0\api_rest.AssemblyInfoInputs.cache
-C:\Users\anne_\OneDrive\Área de Trabalho\project\api_rest\obj\Debug\net6.0\api_rest.AssemblyInfo.cs
-C:\Users\anne_\OneDrive\Área de Trabalho\project\api_rest\obj\Debug\net6.0\api_rest.csproj.CoreCompileInputs.cache
-C:\Users\anne_\OneDrive\Área de Trabalho\project\api_rest\obj\Debug\net6.0\api_rest.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\anne_\OneDrive\Área de Trabalho\project\api_rest\obj\Debug\net6.0\api_rest.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\anne_\OneDrive\Área de Trabalho\project\api_rest\obj\Debug\net6.0\api_rest.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\project\api_rest\obj\Debug\net6.0\refint\api_rest.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\project\api_rest\obj\Debug\net6.0\api_rest.pdb
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\obj\Debug\net6.0\api_rest.csproj.AssemblyReference.cache
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\obj\Debug\net6.0\api_rest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\obj\Debug\net6.0\api_rest.AssemblyInfoInputs.cache
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\obj\Debug\net6.0\api_rest.AssemblyInfo.cs
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\obj\Debug\net6.0\api_rest.csproj.CoreCompileInputs.cache
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\obj\Debug\net6.0\api_rest.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\obj\Debug\net6.0\api_rest.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\obj\Debug\net6.0\api_rest.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\obj\Debug\net6.0\refint\api_rest.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\obj\Debug\net6.0\api_rest.pdb
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\appsettings.json
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\api_rest.exe
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\api_rest.deps.json
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\api_rest.runtimeconfig.json
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\api_rest.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\api_rest.pdb
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\AutoMapper.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\obj\Debug\net6.0\scopedcss\bundle\api_rest.styles.css
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\obj\Debug\net6.0\api_rest.csproj.CopyComplete
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\obj\Debug\net6.0\api_rest.genruntimeconfig.cache
-C:\Users\anne_\OneDrive\Área de Trabalho\api-csharp\obj\Debug\net6.0\ref\api_rest.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/bin/Debug/net6.0/appsettings.json
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/bin/Debug/net6.0/api_rest.exe
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/bin/Debug/net6.0/api_rest.deps.json
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/bin/Debug/net6.0/api_rest.runtimeconfig.json
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/bin/Debug/net6.0/api_rest.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/bin/Debug/net6.0/api_rest.pdb
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/obj/Debug/net6.0/api_rest.csproj.AssemblyReference.cache
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/obj/Debug/net6.0/api_rest.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/obj/Debug/net6.0/api_rest.AssemblyInfoInputs.cache
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/obj/Debug/net6.0/api_rest.AssemblyInfo.cs
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/obj/Debug/net6.0/api_rest.csproj.CoreCompileInputs.cache
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/obj/Debug/net6.0/api_rest.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/obj/Debug/net6.0/api_rest.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/obj/Debug/net6.0/scopedcss/bundle/api_rest.styles.css
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/obj/Debug/net6.0/api_rest.csproj.CopyComplete
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/obj/Debug/net6.0/api_rest.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/obj/Debug/net6.0/refint/api_rest.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/obj/Debug/net6.0/api_rest.pdb
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/obj/Debug/net6.0/api_rest.genruntimeconfig.cache
+C:/Users/anne_/OneDrive/Área de Trabalho/.NET/project/api_rest/obj/Debug/net6.0/ref/api_rest.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/project/api_rest/obj/Debug/net6.0/api_rest.csproj.AssemblyReference.cache
+C:/Users/anne_/OneDrive/Área de Trabalho/project/api_rest/obj/Debug/net6.0/api_rest.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/anne_/OneDrive/Área de Trabalho/project/api_rest/obj/Debug/net6.0/api_rest.AssemblyInfoInputs.cache
+C:/Users/anne_/OneDrive/Área de Trabalho/project/api_rest/obj/Debug/net6.0/api_rest.AssemblyInfo.cs
+C:/Users/anne_/OneDrive/Área de Trabalho/project/api_rest/obj/Debug/net6.0/api_rest.csproj.CoreCompileInputs.cache
+C:/Users/anne_/OneDrive/Área de Trabalho/project/api_rest/obj/Debug/net6.0/api_rest.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/anne_/OneDrive/Área de Trabalho/project/api_rest/obj/Debug/net6.0/api_rest.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/anne_/OneDrive/Área de Trabalho/project/api_rest/obj/Debug/net6.0/api_rest.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/project/api_rest/obj/Debug/net6.0/refint/api_rest.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/project/api_rest/obj/Debug/net6.0/api_rest.pdb
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/obj/Debug/net6.0/api_rest.csproj.AssemblyReference.cache
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/obj/Debug/net6.0/api_rest.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/obj/Debug/net6.0/api_rest.AssemblyInfoInputs.cache
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/obj/Debug/net6.0/api_rest.AssemblyInfo.cs
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/obj/Debug/net6.0/api_rest.csproj.CoreCompileInputs.cache
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/obj/Debug/net6.0/api_rest.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/obj/Debug/net6.0/api_rest.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/obj/Debug/net6.0/api_rest.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/obj/Debug/net6.0/refint/api_rest.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/obj/Debug/net6.0/api_rest.pdb
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/appsettings.json
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/api_rest.exe
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/api_rest.deps.json
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/api_rest.runtimeconfig.json
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/api_rest.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/api_rest.pdb
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/obj/Debug/net6.0/scopedcss/bundle/api_rest.styles.css
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/obj/Debug/net6.0/api_rest.csproj.CopyComplete
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/obj/Debug/net6.0/api_rest.genruntimeconfig.cache
+C:/Users/anne_/OneDrive/Área de Trabalho/api-csharp/obj/Debug/net6.0/ref/api_rest.dll
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/appsettings.Development.json
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/appsettings.json
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/api_rest
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/api_rest.deps.json
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/api_rest.runtimeconfig.json
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/api_rest.dll
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/api_rest.pdb
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/AutoMapper.dll
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/anne/Documents/api/api-csharp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/anne/Documents/api/api-csharp/obj/Debug/net6.0/api_rest.csproj.AssemblyReference.cache
+/Users/anne/Documents/api/api-csharp/obj/Debug/net6.0/api_rest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anne/Documents/api/api-csharp/obj/Debug/net6.0/api_rest.AssemblyInfoInputs.cache
+/Users/anne/Documents/api/api-csharp/obj/Debug/net6.0/api_rest.AssemblyInfo.cs
+/Users/anne/Documents/api/api-csharp/obj/Debug/net6.0/api_rest.csproj.CoreCompileInputs.cache
+/Users/anne/Documents/api/api-csharp/obj/Debug/net6.0/api_rest.MvcApplicationPartsAssemblyInfo.cs
+/Users/anne/Documents/api/api-csharp/obj/Debug/net6.0/api_rest.MvcApplicationPartsAssemblyInfo.cache
+/Users/anne/Documents/api/api-csharp/obj/Debug/net6.0/staticwebassets.build.json
+/Users/anne/Documents/api/api-csharp/obj/Debug/net6.0/staticwebassets.development.json
+/Users/anne/Documents/api/api-csharp/obj/Debug/net6.0/scopedcss/bundle/api_rest.styles.css
+/Users/anne/Documents/api/api-csharp/obj/Debug/net6.0/api_rest.csproj.CopyComplete
+/Users/anne/Documents/api/api-csharp/obj/Debug/net6.0/api_rest.dll
+/Users/anne/Documents/api/api-csharp/obj/Debug/net6.0/refint/api_rest.dll
+/Users/anne/Documents/api/api-csharp/obj/Debug/net6.0/api_rest.pdb
+/Users/anne/Documents/api/api-csharp/obj/Debug/net6.0/api_rest.genruntimeconfig.cache
+/Users/anne/Documents/api/api-csharp/obj/Debug/net6.0/ref/api_rest.dll
